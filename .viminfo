@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1652410016,,"wq"
+|2,0,1652410553,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,24 @@
 # Registers:
 
 # File marks:
-'0  16  0  ~/index.htlm
-|4,48,16,0,1652410016,"~/index.htlm"
-'1  16  0  ~/index.html
-|4,49,16,0,1652403775,"~/index.html"
+'0  16  0  ~/index.html
+|4,48,16,0,1652410553,"~/index.html"
+'1  16  0  ~/index.htlm
+|4,49,16,0,1652410016,"~/index.htlm"
+'2  16  0  ~/index.html
+|4,50,16,0,1652403775,"~/index.html"
 
 # Jumplist (newest first):
+-'  16  0  ~/index.html
+|4,39,16,0,1652410553,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1652410517,"~/index.html"
 -'  16  0  ~/index.htlm
 |4,39,16,0,1652410016,"~/index.htlm"
+-'  16  0  ~/index.htlm
+|4,39,16,0,1652410016,"~/index.htlm"
+-'  1  0  ~/index.htlm
+|4,39,1,0,1652409984,"~/index.htlm"
 -'  1  0  ~/index.htlm
 |4,39,1,0,1652409984,"~/index.htlm"
 -'  16  0  ~/index.html
@@ -46,15 +56,15 @@
 
 # History of marks within files (newest to oldest):
 
-> ~/index.htlm
-	*	1652410012	0
+> ~/index.html
+	*	1652410549	0
 	"	16	0
 	^	16	0
 	.	15	7
 	+	15	7
 
-> ~/index.html
-	*	1652403769	0
+> ~/index.htlm
+	*	1652410012	0
 	"	16	0
 	^	16	0
 	.	15	7
