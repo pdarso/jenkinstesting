@@ -10,3 +10,33 @@ systemctl status jenkins
 q
 cat [200~/var/lib/jenkins/secrets/initialAdminPassword~
 cat /var/lib/jenkins/secrets/initialAdminPassword
+git init
+vim index.html
+git status
+git add .
+git status
+git commit -m "first job"
+git status
+git remote add https://github.com/pdarso/git-jenkis-testing.git
+git push -u origin master
+git push -u origin main
+git remote add origin https://github.com/pdarso/git-jenkis-testing.git
+git push -u origin master
+ls
+git init
+mkdir DC 
+MV DC index.html
+mv index.htm DC
+touch gitjenkins
+mv 
+index.html
+mv index.html gitjenkins
+ls
+git status
+git add gitjenkins
+git status
+git commit -m "new change"
+git status
+git remote add origin https://github.com/pdarso/jenkins-testing.git
+git remote add https://github.com/pdarso/jenkins-testing.git
+git push -u origin master
